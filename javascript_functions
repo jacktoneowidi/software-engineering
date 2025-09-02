@@ -1,0 +1,32 @@
+function  sayHi(){
+    console.log('name')
+    console.log('bye')
+}
+sayHi()
+sayHi()
+sayHi()
+sayHi()
+
+
+
+
+function sum(a, b){
+    console.log(a)
+    console.log(b)
+
+
+}
+sum(5 - 5)
+
+function math (a, b){
+    console.log(a)
+    console.log(b)
+
+}
+math(40 + 10)
+
+
+
+// invoking a function. calling a function.
+
+
