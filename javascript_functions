@@ -28,5 +28,14 @@ math(40 + 10)
 
 
 // invoking a function. calling a function.
+// parameters and arguments
+//below declaration declares two parameters
+function add(firstParameter, secondParameter){
+    console.log(firstParameter + secondParameter);
+
+
+    add (1,  3);
+    add (1,  3);
+}
 
 
