@@ -18,7 +18,7 @@ function sum(a, b){
 }
 sum(5 - 5)
 
-function math (a, b){
+function math (a, b) {
     console.log(a)
     console.log(b)
 
